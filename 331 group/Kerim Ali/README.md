@@ -14,3 +14,12 @@
 * Программа создаст файлы city_graph_with_paths.svg с кратчайшими путями и файл routes.csv. 
 * Во время выполнения программы в консоли выводятся результаты анализа всех алгоритмов кратчайших путей
 
+### Task3
+
+* Для использовния программы требуется установить модули lxml, svgwrite, haversine
+* Программа создаст файлы double_min_span_tree_graph.svg, nearest_neighbour_graph.svg с путями и файлs double_min_span_tree_tsp.csv, nearest_neighbour.csv. 
+
+
+
+
+
